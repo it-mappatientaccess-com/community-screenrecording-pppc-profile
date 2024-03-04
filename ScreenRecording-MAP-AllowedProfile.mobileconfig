@@ -25,6 +25,18 @@
 						<key>Authorization</key>
 						<string>AllowStandardUserToSetSystemService</string>
 						<key>CodeRequirement</key>
+						<string>identifier "com.apple.Terminal" and anchor apple</string>
+						<key>Comment</key>
+						<string>Test: Install this profile and log in as a standard (non-administrator) user. Open Terminal.app and run 'screencapture -c'. You should receive a prompt that says '"Terminal" would like to record this computer's screen'. Click "Open System Preferences". You should see an entry for Terminal in the Screen Recording preferences that you can modify even though you are not an administrator.</string>
+						<key>Identifier</key>
+						<string>com.apple.Terminal</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
+					</dict>
+					<dict>
+						<key>Authorization</key>
+						<string>AllowStandardUserToSetSystemService</string>
+						<key>CodeRequirement</key>
 						<string>identifier "us.zoom.xos" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = BJ4HAAB9B3</string>
 						<key>Comment</key>
 						<string>Zoom</string>
