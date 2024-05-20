@@ -27,11 +27,11 @@
 						<key>Allowed</key>
 						<true/>
 						<key>CodeRequirement</key>
-						<string>anchor apple generic and identifier "com.teamviewer.TeamViewerQS" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7UGFBUGV6)</string>
+						<string>anchor apple generic and identifier "com.nulana.rxagentmac"</string>
 						<key>Comment</key>
 						<string></string>
 						<key>Identifier</key>
-						<string>com.teamviewer.TeamViewerQS</string>
+						<string>com.nulana.rxagentmac</string>
 						<key>IdentifierType</key>
 						<string>bundleID</string>
 					</dict>
@@ -48,11 +48,11 @@
 						<key>Allowed</key>
 						<true/>
 						<key>CodeRequirement</key>
-						<string>anchor apple generic and identifier "com.teamviewer.TeamViewerQS" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7UGFBUGV6)</string>
+						<string>anchor apple generic and identifier "com.nulana.rxagentmac"</string>
 						<key>Comment</key>
 						<string></string>
 						<key>Identifier</key>
-						<string>com.teamviewer.TeamViewerQS</string>
+						<string>com.nulana.rxagentmac</string>
 						<key>IdentifierType</key>
 						<string>bundleID</string>
 					</dict>
@@ -66,11 +66,11 @@
 						<key>Allowed</key>
 						<true/>
 						<key>CodeRequirement</key>
-						<string>anchor apple generic and identifier "com.teamviewer.TeamViewerQS" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7UGFBUGV6)</string>
+						<string>anchor apple generic and identifier "com.nulana.rxagentmac"</string>
 						<key>Comment</key>
 						<string></string>
 						<key>Identifier</key>
-						<string>com.teamviewer.TeamViewerQS</string>
+						<string>com.nulana.rxagentmac</string>
 						<key>IdentifierType</key>
 						<string>bundleID</string>
 					</dict>
@@ -84,11 +84,11 @@
 						<key>Allowed</key>
 						<true/>
 						<key>CodeRequirement</key>
-						<string>anchor apple generic and identifier "com.teamviewer.TeamViewerQS" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7UGFBUGV6)</string>
+						<string>anchor apple generic and identifier "com.nulana.rxagentmac"</string>
 						<key>Comment</key>
 						<string></string>
 						<key>Identifier</key>
-						<string>com.teamviewer.TeamViewerQS</string>
+						<string>com.nulana.rxagentmac</string>
 						<key>IdentifierType</key>
 						<string>bundleID</string>
 					</dict>
@@ -102,11 +102,11 @@
 						<key>Allowed</key>
 						<true/>
 						<key>CodeRequirement</key>
-						<string>anchor apple generic and identifier "com.teamviewer.TeamViewerQS" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7UGFBUGV6)</string>
+						<string>anchor apple generic and identifier "com.nulana.rxagentmac"</string>
 						<key>Comment</key>
 						<string></string>
 						<key>Identifier</key>
-						<string>com.teamviewer.TeamViewerQS</string>
+						<string>com.nulana.rxagentmac</string>
 						<key>IdentifierType</key>
 						<string>bundleID</string>
 					</dict>
@@ -115,9 +115,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>TeamViewerQS_PPPC</string>
+	<string>Remotix_PPPC</string>
 	<key>PayloadDisplayName</key>
-	<string>TeamViewerQS_PPPC</string>
+	<string>Remotix_PPPC</string>
 	<key>PayloadIdentifier</key>
 	<string>2B0F8738-D97C-499D-A716-892D0B51C867</string>
 	<key>PayloadOrganization</key>
